@@ -1,2 +1,2 @@
 # arm_cortex
-some arm code
+Solutions to edx course Real time Bluetooth Networks. #UT.RTBN.12.01x
